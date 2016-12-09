@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Image_Entropy.cpp
+Image_Entropy.cpp(79): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  All 302 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Image_Entropy.vcxproj -> G:\projects\vs2015 projects\Finished\Image_Entropy\Release\Image_Entropy.exe
+  Image_Entropy.vcxproj -> G:\projects\vs2015 projects\Finished\Image_Entropy\Release\Image_Entropy.pdb (Full PDB)
