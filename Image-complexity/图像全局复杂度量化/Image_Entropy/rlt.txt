@@ -1,8 +1,0 @@
-FileName=image\1.jpg,  entropy=7.15105	 ,ssim=6.68661	 ,psnr=8.54595  ,noise=13.6367 ,result=7.42233
-FileName=image\2.jpg,  entropy=7.08705	 ,ssim=6.69449	 ,psnr=10.1216  ,noise=17.976 ,result=9.18557
-FileName=image\3.jpg,  entropy=7.25042	 ,ssim=6.68078	 ,psnr=7.44242  ,noise=11.8694 ,result=6.57978
-FileName=image\4.jpg,  entropy=7.46761	 ,ssim=6.70091	 ,psnr=9.87429  ,noise=14.4865 ,result=8.14195
-FileName=image\5.jpg,  entropy=7.5123	 ,ssim=6.69022	 ,psnr=10.1872  ,noise=13.6433 ,result=7.98965
-FileName=image\6.jpg,  entropy=6.9167	 ,ssim=6.68806	 ,psnr=8.55658  ,noise=14.6922 ,result=7.6956
-FileName=image\7.jpg,  entropy=6.80453	 ,ssim=6.77629	 ,psnr=10.669  ,noise=15.3026 ,result=8.50762
-FileName=image\8.jpg,  entropy=7.12204	 ,ssim=6.74157	 ,psnr=11.1816  ,noise=18.2854 ,result=9.61283
